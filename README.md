@@ -1,1 +1,1 @@
-# ia-unicesumar2026
+# Disciplina de inteligência artificial - Professor Munif Gebara
